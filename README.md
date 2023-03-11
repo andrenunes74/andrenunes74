@@ -6,8 +6,8 @@
 ### I'm a Master's Degree student in Software Engineering @ University of Minho:
 * :desktop_computer: Software Development, Validation and Maintenance
 * :scroll: Formal Programming Methods
-* :mailbox: How to reach me: <p><a href="mailto:a85635@alunos.uminho.pt">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a></p>
+* :mailbox: How to reach me: <a href="mailto:a85635@alunos.uminho.pt">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a>
 
 ---
 
