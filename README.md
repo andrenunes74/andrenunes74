@@ -1,5 +1,5 @@
 <h1>
-  Hey there! I'm André Nunes. :wave:
+  Hey there! I'm André Nunes. 
 </h1>
 
 ## About me:
