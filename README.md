@@ -3,7 +3,7 @@
 </h1>
 
 ## About me:
-### I'm a Master's Degree student in Software Engineering @ University of Minho:
+### I'm a Junior DevOps Engineer @ Planet Farms:
 * :desktop_computer: Software Development, Validation and Maintenance
 * :scroll: Formal Programming Methods
 * :mailbox: How to reach me:
